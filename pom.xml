@@ -67,7 +67,7 @@
                  <sonar.host.url>http://13.234.34.189:9000/</sonar.host.url>
 
                   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-                  <sonar.coverage.jacoco.xmlReportPaths>../app-it/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+                  
             </properties>
         </profile>
         <profile>
