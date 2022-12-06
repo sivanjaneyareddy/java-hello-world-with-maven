@@ -65,7 +65,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                 <sonar.host.url>http://13.234.34.189:9000/</sonar.host.url>
+                 <sonar.host.url>http://65.2.126.148:9000/</sonar.host.url>
                  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
                   <aggregate.report.dir>target/site/jacoco-aggregate/jacoco.xml</aggregate.report.dir>
 
